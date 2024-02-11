@@ -1,2 +1,2 @@
-# Schedule_bot
+# Schedule_Telegram_bot
 Pengingat aktivitas
